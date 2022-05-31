@@ -18,5 +18,10 @@ namespace StackAndQueues
             Console.WriteLine("\nQueue: ");
             linked.Display();
         }
+        public void GetInfo()
+        {
+            Console.WriteLine("\nQueue: ");
+            linked.Display();
+        }
     }
 }
